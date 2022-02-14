@@ -15,8 +15,7 @@ export const environment = {
 
   lang: '&lang=pt_br',
 
-  appId: `&appid=4ecd7005a9a401d0d6e50f9bd3bd62d1`
-// 'seu id da API OpenWeather vai aqui'
+  appId: `&appid='seu id da API OpenWeather vai aqui'`
 };
 
 /*
